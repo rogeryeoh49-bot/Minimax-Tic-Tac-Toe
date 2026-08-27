@@ -24,6 +24,13 @@ Draw →  0
 Loss → -1
 ```
 
+## Project Report
+I also wrote a short report (followed by a presentation) during the project with limited time, covering the Minimax algorithm, game-tree search, implementation, and the development process.
+My report was selected for inclusion in the *2025 FitzEd Winter and Summer School Journal*.
+
+📄 [Read the Project Report](docs/Building%20a%20Tic-Tac-Toe%20game%20with%20minimax%20Roger%20Yeoh.pdf)
+📚 [View the 2025 Journal](https://www.fitz.cam.ac.uk/sites/default/files/2026-02/2025%20FitzEd%20Winter%20and%20Summer%20School%20Journal.pdf) — pp. 52–54
+
 ## Demo
 
 
@@ -35,10 +42,3 @@ https://github.com/user-attachments/assets/58893107-c849-4d96-b2a7-02dda484743d
 https://github.com/user-attachments/assets/5866702e-5fb0-4a82-b5d7-185bed6e6315
 
 
-
-## Project Report
-I also wrote a short report (followed by a presentation) during the project with limited time, covering the Minimax algorithm, game-tree search, implementation, and the development process.
-My report was selected for inclusion in the *2025 FitzEd Winter and Summer School Journal*.
-
-📄 [Read the Project Report](docs/Building%20a%20Tic-Tac-Toe%20game%20with%20minimax%20Roger%20Yeoh.pdf)
-📚 [View the 2025 Journal](https://www.fitz.cam.ac.uk/sites/default/files/2026-02/2025%20FitzEd%20Winter%20and%20Summer%20School%20Journal.pdf) — pp. 52–54
