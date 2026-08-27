@@ -22,3 +22,7 @@ The AI explores possible future game states and assigns each outcome a score:
 Win  → +1
 Draw →  0
 Loss → -1
+
+
+https://github.com/user-attachments/assets/321692c9-ddf8-4da9-8ca1-f8c19db35285
+
