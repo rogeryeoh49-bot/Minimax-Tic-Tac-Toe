@@ -14,6 +14,11 @@ At the time, I only had a basic understanding of programming and algorithms, and
 - An AI that cannot be beaten when played correctly
 - A graphical interface for playing against the AI
 
+## Demo
+
+https://github.com/user-attachments/assets/321692c9-ddf8-4da9-8ca1-f8c19db35285
+
+
 ## The Core Idea
 
 The AI explores possible future game states and assigns each outcome a score:
@@ -22,8 +27,4 @@ The AI explores possible future game states and assigns each outcome a score:
 Win  → +1
 Draw →  0
 Loss → -1
-
-## Demo
-
-https://github.com/user-attachments/assets/321692c9-ddf8-4da9-8ca1-f8c19db35285
 
