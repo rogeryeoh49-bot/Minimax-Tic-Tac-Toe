@@ -14,6 +14,16 @@ At the time, I only had a basic understanding of programming and algorithms, and
 - An AI that cannot be beaten when played correctly
 - A graphical interface for playing against the AI
 
+## The Core Idea
+
+The AI explores possible future game states and assigns each outcome a score:
+
+```text
+Win  → +1
+Draw →  0
+Loss → -1
+```
+
 ## Demo
 
 
@@ -26,19 +36,9 @@ https://github.com/user-attachments/assets/5866702e-5fb0-4a82-b5d7-185bed6e6315
 
 
 
+## Project Report
+I also wrote a short report (followed by a presentation) during the project with limited time, covering the Minimax algorithm, game-tree search, implementation, and the development process.
+My report was selected for inclusion in the *2025 FitzEd Winter and Summer School Journal*.
 
-## The Core Idea
-
-The AI explores possible future game states and assigns each outcome a score:
-
-```text
-Win  → +1
-Draw →  0
-Loss → -1
-```
-
-## Documentation
-
-I also wrote a short report during the project, covering the Minimax algorithm, game-tree search, implementation, and the development process.
-
-📄 [Read the Project Report](docs/Building a Tic-Tac-Toe game with minimax Roger Yeoh.pdf)
+📄 [Read the Project Report](docs/Building%20a%20Tic-Tac-Toe%20game%20with%20minimax%20Roger%20Yeoh.pdf)
+📚 [View the 2025 Journal](https://www.fitz.cam.ac.uk/sites/default/files/2026-02/2025%20FitzEd%20Winter%20and%20Summer%20School%20Journal.pdf) — pp. 52–54
