@@ -41,4 +41,4 @@ Loss → -1
 
 I also wrote a short report during the project, covering the Minimax algorithm, game-tree search, implementation, and the development process.
 
-📄 [Read the Project Report](docs/Minimax_TicTacToe_Report.pdf)
+📄 [Read the Project Report](docs/Building a Tic-Tac-Toe game with minimax Roger Yeoh.pdf)
