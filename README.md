@@ -23,6 +23,7 @@ Win  → +1
 Draw →  0
 Loss → -1
 
+## Demo
 
 https://github.com/user-attachments/assets/321692c9-ddf8-4da9-8ca1-f8c19db35285
 
